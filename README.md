@@ -1,8 +1,6 @@
 ﻿# LLM-Polarization
 
-Official implementation of this paper.
-Emergence of human-like polarization among large
-language model agents
+Official implementation of this paper "Emergence of human-like polarization among large language model agents"
 
 # System requirements
 ```
