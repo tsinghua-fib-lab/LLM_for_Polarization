@@ -57,8 +57,10 @@ Define experimental settings:
 For a network with 4000 relationships, 1000 agents, expected time will be approximately 6-7 hours using gpt3.5-turbo with a tier 5 openai api account.
 
 # Instruction for use
-Run the demo with cmd <strong>python run.py</strong> 
-
+<ol>
+<li>Config your apikey and model settings in <strong>utils.py</strong>
+<li>Run the demo with cmd <strong>python run.py</strong> 
+</ol>
 # License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
