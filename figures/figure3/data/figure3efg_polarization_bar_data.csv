@@ -1,0 +1,61 @@
+panel,x_label,time,type_order,type,bias
+figure3e,Ratio of Agents with Selective Exposure,16,0,0%,1.55
+figure3e,Ratio of Agents with Selective Exposure,16,1,25%,1.5858585858585859
+figure3e,Ratio of Agents with Selective Exposure,16,2,50%,1.68
+figure3e,Ratio of Agents with Selective Exposure,16,3,75%,1.6868686868686869
+figure3e,Ratio of Agents with Selective Exposure,17,0,0%,1.56
+figure3e,Ratio of Agents with Selective Exposure,17,1,25%,1.5858585858585859
+figure3e,Ratio of Agents with Selective Exposure,17,2,50%,1.69
+figure3e,Ratio of Agents with Selective Exposure,17,3,75%,1.71
+figure3e,Ratio of Agents with Selective Exposure,18,0,0%,1.56
+figure3e,Ratio of Agents with Selective Exposure,18,1,25%,1.683673469387755
+figure3e,Ratio of Agents with Selective Exposure,18,2,50%,1.74
+figure3e,Ratio of Agents with Selective Exposure,18,3,75%,1.73
+figure3e,Ratio of Agents with Selective Exposure,19,0,0%,1.56
+figure3e,Ratio of Agents with Selective Exposure,19,1,25%,1.6868686868686869
+figure3e,Ratio of Agents with Selective Exposure,19,2,50%,1.7
+figure3e,Ratio of Agents with Selective Exposure,19,3,75%,1.7272727272727273
+figure3e,Ratio of Agents with Selective Exposure,20,0,0%,1.62
+figure3e,Ratio of Agents with Selective Exposure,20,1,25%,1.7
+figure3e,Ratio of Agents with Selective Exposure,20,2,50%,1.73
+figure3e,Ratio of Agents with Selective Exposure,20,3,75%,1.7373737373737375
+figure3f,Ratio of Agents with Confirmation Bias,16,0,0%,1.55
+figure3f,Ratio of Agents with Confirmation Bias,16,1,25%,1.5
+figure3f,Ratio of Agents with Confirmation Bias,16,2,50%,1.6
+figure3f,Ratio of Agents with Confirmation Bias,16,3,75%,1.6
+figure3f,Ratio of Agents with Confirmation Bias,17,0,0%,1.56
+figure3f,Ratio of Agents with Confirmation Bias,17,1,25%,1.5
+figure3f,Ratio of Agents with Confirmation Bias,17,2,50%,1.6
+figure3f,Ratio of Agents with Confirmation Bias,17,3,75%,1.65
+figure3f,Ratio of Agents with Confirmation Bias,18,0,0%,1.56
+figure3f,Ratio of Agents with Confirmation Bias,18,1,25%,1.54
+figure3f,Ratio of Agents with Confirmation Bias,18,2,50%,1.66
+figure3f,Ratio of Agents with Confirmation Bias,18,3,75%,1.72
+figure3f,Ratio of Agents with Confirmation Bias,19,0,0%,1.56
+figure3f,Ratio of Agents with Confirmation Bias,19,1,25%,1.56
+figure3f,Ratio of Agents with Confirmation Bias,19,2,50%,1.66
+figure3f,Ratio of Agents with Confirmation Bias,19,3,75%,1.76
+figure3f,Ratio of Agents with Confirmation Bias,20,0,0%,1.62
+figure3f,Ratio of Agents with Confirmation Bias,20,1,25%,1.55
+figure3f,Ratio of Agents with Confirmation Bias,20,2,50%,1.71
+figure3f,Ratio of Agents with Confirmation Bias,20,3,75%,1.77
+figure3g,Opinions of Elite Agents,16,2,Moderate,1.7
+figure3g,Opinions of Elite Agents,16,1,Neutral,1.0606060606060606
+figure3g,Opinions of Elite Agents,16,0,Original,1.55
+figure3g,Opinions of Elite Agents,16,3,Radical,1.7
+figure3g,Opinions of Elite Agents,17,2,Moderate,1.73
+figure3g,Opinions of Elite Agents,17,1,Neutral,1.121212121212121
+figure3g,Opinions of Elite Agents,17,0,Original,1.56
+figure3g,Opinions of Elite Agents,17,3,Radical,1.72
+figure3g,Opinions of Elite Agents,18,2,Moderate,1.73
+figure3g,Opinions of Elite Agents,18,1,Neutral,1.1414141414141414
+figure3g,Opinions of Elite Agents,18,0,Original,1.56
+figure3g,Opinions of Elite Agents,18,3,Radical,1.71
+figure3g,Opinions of Elite Agents,19,2,Moderate,1.78
+figure3g,Opinions of Elite Agents,19,1,Neutral,1.1515151515151516
+figure3g,Opinions of Elite Agents,19,0,Original,1.56
+figure3g,Opinions of Elite Agents,19,3,Radical,1.73
+figure3g,Opinions of Elite Agents,20,2,Moderate,1.78
+figure3g,Opinions of Elite Agents,20,1,Neutral,1.1414141414141414
+figure3g,Opinions of Elite Agents,20,0,Original,1.62
+figure3g,Opinions of Elite Agents,20,3,Radical,1.73

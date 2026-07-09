@@ -1,0 +1,7 @@
+topic,topic_title,condition,self_inconsistency_rate
+Politics,Partisan Alignment,original,0.674
+Politics,Partisan Alignment,self_regulated,0.32200000000000006
+GunControl,Gun Control,original,0.53
+GunControl,Gun Control,self_regulated,0.48
+AbortionBan,Abortion Ban,original,0.5960000000000001
+AbortionBan,Abortion Ban,self_regulated,0.524

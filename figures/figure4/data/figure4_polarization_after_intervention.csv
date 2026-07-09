@@ -1,0 +1,61 @@
+panel,intervention_folder,intervention_name,short_name,type,timestep,polarization,n_nodes
+figure4b,random,Random Interactions,RI,Original,35,1.295,1000
+figure4b,random,Random Interactions,RI,Original,36,1.295,1000
+figure4b,random,Random Interactions,RI,Original,37,1.291,1000
+figure4b,random,Random Interactions,RI,Original,38,1.295,1000
+figure4b,random,Random Interactions,RI,Original,39,1.288,1000
+figure4b,random,Random Interactions,RI,Original,40,1.292,1000
+figure4b,random,Random Interactions,RI,Random Interactions,35,1.292,1000
+figure4b,random,Random Interactions,RI,Random Interactions,36,1.27,1000
+figure4b,random,Random Interactions,RI,Random Interactions,37,1.256,1000
+figure4b,random,Random Interactions,RI,Random Interactions,38,1.249,1000
+figure4b,random,Random Interactions,RI,Random Interactions,39,1.244,1000
+figure4b,random,Random Interactions,RI,Random Interactions,40,1.225,1000
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Original,35,1.295,1000
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Original,36,1.295,1000
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Original,37,1.291,1000
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Original,38,1.295,1000
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Original,39,1.288,1000
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Original,40,1.292,1000
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Moderate Opposing Interactions,35,1.287,1000
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Moderate Opposing Interactions,36,1.276,1000
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Moderate Opposing Interactions,37,1.276,1000
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Moderate Opposing Interactions,38,1.268,1000
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Moderate Opposing Interactions,39,1.272,1000
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Moderate Opposing Interactions,40,1.262,1000
+figure4d,selective,No Selective Exposure,NSE,Original,35,1.295,1000
+figure4d,selective,No Selective Exposure,NSE,Original,36,1.295,1000
+figure4d,selective,No Selective Exposure,NSE,Original,37,1.291,1000
+figure4d,selective,No Selective Exposure,NSE,Original,38,1.295,1000
+figure4d,selective,No Selective Exposure,NSE,Original,39,1.288,1000
+figure4d,selective,No Selective Exposure,NSE,Original,40,1.292,1000
+figure4d,selective,No Selective Exposure,NSE,No Selective Exposure,35,1.291,1000
+figure4d,selective,No Selective Exposure,NSE,No Selective Exposure,36,1.29,1000
+figure4d,selective,No Selective Exposure,NSE,No Selective Exposure,37,1.292,1000
+figure4d,selective,No Selective Exposure,NSE,No Selective Exposure,38,1.285,1000
+figure4d,selective,No Selective Exposure,NSE,No Selective Exposure,39,1.284,1000
+figure4d,selective,No Selective Exposure,NSE,No Selective Exposure,40,1.279,1000
+figure4e,no_confirmation,No Confirmation Bias,NCB,Original,35,1.295,1000
+figure4e,no_confirmation,No Confirmation Bias,NCB,Original,36,1.295,1000
+figure4e,no_confirmation,No Confirmation Bias,NCB,Original,37,1.291,1000
+figure4e,no_confirmation,No Confirmation Bias,NCB,Original,38,1.295,1000
+figure4e,no_confirmation,No Confirmation Bias,NCB,Original,39,1.288,1000
+figure4e,no_confirmation,No Confirmation Bias,NCB,Original,40,1.292,1000
+figure4e,no_confirmation,No Confirmation Bias,NCB,No Confirmation Bias,35,1.198,1000
+figure4e,no_confirmation,No Confirmation Bias,NCB,No Confirmation Bias,36,1.168,1000
+figure4e,no_confirmation,No Confirmation Bias,NCB,No Confirmation Bias,37,1.122,1000
+figure4e,no_confirmation,No Confirmation Bias,NCB,No Confirmation Bias,38,1.125,1000
+figure4e,no_confirmation,No Confirmation Bias,NCB,No Confirmation Bias,39,1.125,1000
+figure4e,no_confirmation,No Confirmation Bias,NCB,No Confirmation Bias,40,1.106,1000
+figure4f,KOL,Neutral Elite Signaling,NES,Original,35,1.295,1000
+figure4f,KOL,Neutral Elite Signaling,NES,Original,36,1.295,1000
+figure4f,KOL,Neutral Elite Signaling,NES,Original,37,1.291,1000
+figure4f,KOL,Neutral Elite Signaling,NES,Original,38,1.295,1000
+figure4f,KOL,Neutral Elite Signaling,NES,Original,39,1.288,1000
+figure4f,KOL,Neutral Elite Signaling,NES,Original,40,1.292,1000
+figure4f,KOL,Neutral Elite Signaling,NES,Neutral Elite Signaling,35,1.307,1000
+figure4f,KOL,Neutral Elite Signaling,NES,Neutral Elite Signaling,36,1.2,1000
+figure4f,KOL,Neutral Elite Signaling,NES,Neutral Elite Signaling,37,1.165,1000
+figure4f,KOL,Neutral Elite Signaling,NES,Neutral Elite Signaling,38,1.122,1000
+figure4f,KOL,Neutral Elite Signaling,NES,Neutral Elite Signaling,39,1.157,1000
+figure4f,KOL,Neutral Elite Signaling,NES,Neutral Elite Signaling,40,1.123,1000

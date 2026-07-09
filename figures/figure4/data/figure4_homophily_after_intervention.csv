@@ -1,0 +1,61 @@
+panel,intervention_folder,intervention_name,short_name,type,timestep,homophilic,n_interactions
+figure4b,random,Random Interactions,RI,Original,35,0.47811952988247064,3999
+figure4b,random,Random Interactions,RI,Original,36,0.4785,4000
+figure4b,random,Random Interactions,RI,Original,37,0.47811952988247064,3999
+figure4b,random,Random Interactions,RI,Original,38,0.4803700925231308,3999
+figure4b,random,Random Interactions,RI,Original,39,0.48412103025756437,3999
+figure4b,random,Random Interactions,RI,Original,40,0.48537134283570893,3999
+figure4b,random,Random Interactions,RI,Random Interactions,35,0.29175,4000
+figure4b,random,Random Interactions,RI,Random Interactions,36,0.285,4000
+figure4b,random,Random Interactions,RI,Random Interactions,37,0.28225,4000
+figure4b,random,Random Interactions,RI,Random Interactions,38,0.2765,4000
+figure4b,random,Random Interactions,RI,Random Interactions,39,0.28625,4000
+figure4b,random,Random Interactions,RI,Random Interactions,40,0.284,4000
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Original,35,0.47811952988247064,3999
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Original,36,0.4785,4000
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Original,37,0.47811952988247064,3999
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Original,38,0.4803700925231308,3999
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Original,39,0.48412103025756437,3999
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Original,40,0.48537134283570893,3999
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Moderate Opposing Interactions,35,0.0,56
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Moderate Opposing Interactions,36,0.0,62
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Moderate Opposing Interactions,37,0.0,70
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Moderate Opposing Interactions,38,0.0,71
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Moderate Opposing Interactions,39,0.0,66
+figure4c,no_extreme,Moderate Opposing Interactions,MOI,Moderate Opposing Interactions,40,0.0,76
+figure4d,selective,No Selective Exposure,NSE,Original,35,0.47811952988247064,3999
+figure4d,selective,No Selective Exposure,NSE,Original,36,0.4785,4000
+figure4d,selective,No Selective Exposure,NSE,Original,37,0.47811952988247064,3999
+figure4d,selective,No Selective Exposure,NSE,Original,38,0.4803700925231308,3999
+figure4d,selective,No Selective Exposure,NSE,Original,39,0.48412103025756437,3999
+figure4d,selective,No Selective Exposure,NSE,Original,40,0.48537134283570893,3999
+figure4d,selective,No Selective Exposure,NSE,No Selective Exposure,35,0.4715,4000
+figure4d,selective,No Selective Exposure,NSE,No Selective Exposure,36,0.47125,4000
+figure4d,selective,No Selective Exposure,NSE,No Selective Exposure,37,0.4685,4000
+figure4d,selective,No Selective Exposure,NSE,No Selective Exposure,38,0.467,4000
+figure4d,selective,No Selective Exposure,NSE,No Selective Exposure,39,0.46825,4000
+figure4d,selective,No Selective Exposure,NSE,No Selective Exposure,40,0.46225,4000
+figure4e,no_confirmation,No Confirmation Bias,NCB,Original,35,0.47811952988247064,3999
+figure4e,no_confirmation,No Confirmation Bias,NCB,Original,36,0.4785,4000
+figure4e,no_confirmation,No Confirmation Bias,NCB,Original,37,0.47811952988247064,3999
+figure4e,no_confirmation,No Confirmation Bias,NCB,Original,38,0.4803700925231308,3999
+figure4e,no_confirmation,No Confirmation Bias,NCB,Original,39,0.48412103025756437,3999
+figure4e,no_confirmation,No Confirmation Bias,NCB,Original,40,0.48537134283570893,3999
+figure4e,no_confirmation,No Confirmation Bias,NCB,No Confirmation Bias,35,0.4635,4000
+figure4e,no_confirmation,No Confirmation Bias,NCB,No Confirmation Bias,36,0.46175,4000
+figure4e,no_confirmation,No Confirmation Bias,NCB,No Confirmation Bias,37,0.4445,4000
+figure4e,no_confirmation,No Confirmation Bias,NCB,No Confirmation Bias,38,0.4435,4000
+figure4e,no_confirmation,No Confirmation Bias,NCB,No Confirmation Bias,39,0.44275,4000
+figure4e,no_confirmation,No Confirmation Bias,NCB,No Confirmation Bias,40,0.439,4000
+figure4f,KOL,Neutral Elite Signaling,NES,Original,35,0.47811952988247064,3999
+figure4f,KOL,Neutral Elite Signaling,NES,Original,36,0.4785,4000
+figure4f,KOL,Neutral Elite Signaling,NES,Original,37,0.47811952988247064,3999
+figure4f,KOL,Neutral Elite Signaling,NES,Original,38,0.4803700925231308,3999
+figure4f,KOL,Neutral Elite Signaling,NES,Original,39,0.48412103025756437,3999
+figure4f,KOL,Neutral Elite Signaling,NES,Original,40,0.48537134283570893,3999
+figure4f,KOL,Neutral Elite Signaling,NES,Neutral Elite Signaling,35,0.47775,4000
+figure4f,KOL,Neutral Elite Signaling,NES,Neutral Elite Signaling,36,0.4475,4000
+figure4f,KOL,Neutral Elite Signaling,NES,Neutral Elite Signaling,37,0.44,4000
+figure4f,KOL,Neutral Elite Signaling,NES,Neutral Elite Signaling,38,0.4275,4000
+figure4f,KOL,Neutral Elite Signaling,NES,Neutral Elite Signaling,39,0.427,4000
+figure4f,KOL,Neutral Elite Signaling,NES,Neutral Elite Signaling,40,0.42375,4000

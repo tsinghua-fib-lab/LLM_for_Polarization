@@ -49,7 +49,7 @@ side_b_0 = "Support the Democratic party"
 # side_e_0 = "Maintain neutrality"
 # side_b_0 = "Oppose abortion bans"
 
-datasource = "Data_WS_2000"
+datasource = "source_data/Data_WS_2000"
 num_epoch = 2000
 starting_epoch = 0
 side_init = "0.1,0.2,0.4,0.2,0.1"
