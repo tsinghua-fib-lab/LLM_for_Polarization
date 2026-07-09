@@ -12,7 +12,6 @@ This repository contains the simulation code, source data, and curated figure da
 - `utils.py`: LLM prompting and simulation utilities.
 - `source_data/`: network initialization files and source interaction data.
 - `figures/figure1` to `figures/figure4`: main-text figure data and plotting notebooks.
-- `LLM4Polarization_experimental_setting.pdf`: experimental setting document.
 
 ## Source Data
 
