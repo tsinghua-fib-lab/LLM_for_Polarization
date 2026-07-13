@@ -1,0 +1,251 @@
+topic,topic_key,condition,source_group,target_state,source_group_index,target_state_index,proportion
+Abortion Ban,AbortionBan,Original,left,left,0,0,0.84
+Abortion Ban,AbortionBan,Original,left,tend left,0,1,0.15
+Abortion Ban,AbortionBan,Original,left,center,0,2,0.01
+Abortion Ban,AbortionBan,Original,left,tend right,0,3,0.0
+Abortion Ban,AbortionBan,Original,left,right,0,4,0.0
+Abortion Ban,AbortionBan,Original,tend left,left,1,0,0.84
+Abortion Ban,AbortionBan,Original,tend left,tend left,1,1,0.16
+Abortion Ban,AbortionBan,Original,tend left,center,1,2,0.0
+Abortion Ban,AbortionBan,Original,tend left,tend right,1,3,0.0
+Abortion Ban,AbortionBan,Original,tend left,right,1,4,0.0
+Abortion Ban,AbortionBan,Original,center,left,2,0,0.12
+Abortion Ban,AbortionBan,Original,center,tend left,2,1,0.21
+Abortion Ban,AbortionBan,Original,center,center,2,2,0.53
+Abortion Ban,AbortionBan,Original,center,tend right,2,3,0.13
+Abortion Ban,AbortionBan,Original,center,right,2,4,0.01
+Abortion Ban,AbortionBan,Original,tend right,left,3,0,0.08
+Abortion Ban,AbortionBan,Original,tend right,tend left,3,1,0.13
+Abortion Ban,AbortionBan,Original,tend right,center,3,2,0.11
+Abortion Ban,AbortionBan,Original,tend right,tend right,3,3,0.42
+Abortion Ban,AbortionBan,Original,tend right,right,3,4,0.26
+Abortion Ban,AbortionBan,Original,right,left,4,0,0.04
+Abortion Ban,AbortionBan,Original,right,tend left,4,1,0.03
+Abortion Ban,AbortionBan,Original,right,center,4,2,0.04
+Abortion Ban,AbortionBan,Original,right,tend right,4,3,0.17
+Abortion Ban,AbortionBan,Original,right,right,4,4,0.72
+Abortion Ban,AbortionBan,Self-regulated,left,left,0,0,1.0
+Abortion Ban,AbortionBan,Self-regulated,left,tend left,0,1,0.0
+Abortion Ban,AbortionBan,Self-regulated,left,center,0,2,0.0
+Abortion Ban,AbortionBan,Self-regulated,left,tend right,0,3,0.0
+Abortion Ban,AbortionBan,Self-regulated,left,right,0,4,0.0
+Abortion Ban,AbortionBan,Self-regulated,tend left,left,1,0,0.9
+Abortion Ban,AbortionBan,Self-regulated,tend left,tend left,1,1,0.1
+Abortion Ban,AbortionBan,Self-regulated,tend left,center,1,2,0.0
+Abortion Ban,AbortionBan,Self-regulated,tend left,tend right,1,3,0.0
+Abortion Ban,AbortionBan,Self-regulated,tend left,right,1,4,0.0
+Abortion Ban,AbortionBan,Self-regulated,center,left,2,0,0.29
+Abortion Ban,AbortionBan,Self-regulated,center,tend left,2,1,0.03
+Abortion Ban,AbortionBan,Self-regulated,center,center,2,2,0.68
+Abortion Ban,AbortionBan,Self-regulated,center,tend right,2,3,0.0
+Abortion Ban,AbortionBan,Self-regulated,center,right,2,4,0.0
+Abortion Ban,AbortionBan,Self-regulated,tend right,left,3,0,0.07
+Abortion Ban,AbortionBan,Self-regulated,tend right,tend left,3,1,0.07
+Abortion Ban,AbortionBan,Self-regulated,tend right,center,3,2,0.1
+Abortion Ban,AbortionBan,Self-regulated,tend right,tend right,3,3,0.56
+Abortion Ban,AbortionBan,Self-regulated,tend right,right,3,4,0.2
+Abortion Ban,AbortionBan,Self-regulated,right,left,4,0,0.0
+Abortion Ban,AbortionBan,Self-regulated,right,tend left,4,1,0.02
+Abortion Ban,AbortionBan,Self-regulated,right,center,4,2,0.04
+Abortion Ban,AbortionBan,Self-regulated,right,tend right,4,3,0.32
+Abortion Ban,AbortionBan,Self-regulated,right,right,4,4,0.62
+Partisan Alignment,Politics,Original,left,left,0,0,0.98
+Partisan Alignment,Politics,Original,left,tend left,0,1,0.02
+Partisan Alignment,Politics,Original,left,center,0,2,0.0
+Partisan Alignment,Politics,Original,left,tend right,0,3,0.0
+Partisan Alignment,Politics,Original,left,right,0,4,0.0
+Partisan Alignment,Politics,Original,tend left,left,1,0,1.0
+Partisan Alignment,Politics,Original,tend left,tend left,1,1,0.0
+Partisan Alignment,Politics,Original,tend left,center,1,2,0.0
+Partisan Alignment,Politics,Original,tend left,tend right,1,3,0.0
+Partisan Alignment,Politics,Original,tend left,right,1,4,0.0
+Partisan Alignment,Politics,Original,center,left,2,0,0.43
+Partisan Alignment,Politics,Original,center,tend left,2,1,0.37
+Partisan Alignment,Politics,Original,center,center,2,2,0.2
+Partisan Alignment,Politics,Original,center,tend right,2,3,0.0
+Partisan Alignment,Politics,Original,center,right,2,4,0.0
+Partisan Alignment,Politics,Original,tend right,left,3,0,0.06
+Partisan Alignment,Politics,Original,tend right,tend left,3,1,0.01
+Partisan Alignment,Politics,Original,tend right,center,3,2,0.02
+Partisan Alignment,Politics,Original,tend right,tend right,3,3,0.32
+Partisan Alignment,Politics,Original,tend right,right,3,4,0.59
+Partisan Alignment,Politics,Original,right,left,4,0,0.03
+Partisan Alignment,Politics,Original,right,tend left,4,1,0.02
+Partisan Alignment,Politics,Original,right,center,4,2,0.01
+Partisan Alignment,Politics,Original,right,tend right,4,3,0.11
+Partisan Alignment,Politics,Original,right,right,4,4,0.83
+Partisan Alignment,Politics,Self-regulated,left,left,0,0,1.0
+Partisan Alignment,Politics,Self-regulated,left,tend left,0,1,0.0
+Partisan Alignment,Politics,Self-regulated,left,center,0,2,0.0
+Partisan Alignment,Politics,Self-regulated,left,tend right,0,3,0.0
+Partisan Alignment,Politics,Self-regulated,left,right,0,4,0.0
+Partisan Alignment,Politics,Self-regulated,tend left,left,1,0,1.0
+Partisan Alignment,Politics,Self-regulated,tend left,tend left,1,1,0.0
+Partisan Alignment,Politics,Self-regulated,tend left,center,1,2,0.0
+Partisan Alignment,Politics,Self-regulated,tend left,tend right,1,3,0.0
+Partisan Alignment,Politics,Self-regulated,tend left,right,1,4,0.0
+Partisan Alignment,Politics,Self-regulated,center,left,2,0,0.0
+Partisan Alignment,Politics,Self-regulated,center,tend left,2,1,0.01
+Partisan Alignment,Politics,Self-regulated,center,center,2,2,0.99
+Partisan Alignment,Politics,Self-regulated,center,tend right,2,3,0.0
+Partisan Alignment,Politics,Self-regulated,center,right,2,4,0.0
+Partisan Alignment,Politics,Self-regulated,tend right,left,3,0,0.01
+Partisan Alignment,Politics,Self-regulated,tend right,tend left,3,1,0.0
+Partisan Alignment,Politics,Self-regulated,tend right,center,3,2,0.01
+Partisan Alignment,Politics,Self-regulated,tend right,tend right,3,3,0.51
+Partisan Alignment,Politics,Self-regulated,tend right,right,3,4,0.47
+Partisan Alignment,Politics,Self-regulated,right,left,4,0,0.01
+Partisan Alignment,Politics,Self-regulated,right,tend left,4,1,0.0
+Partisan Alignment,Politics,Self-regulated,right,center,4,2,0.01
+Partisan Alignment,Politics,Self-regulated,right,tend right,4,3,0.03
+Partisan Alignment,Politics,Self-regulated,right,right,4,4,0.95
+Gun Control,GunControl,Original,left,left,0,0,0.88
+Gun Control,GunControl,Original,left,tend left,0,1,0.12
+Gun Control,GunControl,Original,left,center,0,2,0.0
+Gun Control,GunControl,Original,left,tend right,0,3,0.0
+Gun Control,GunControl,Original,left,right,0,4,0.0
+Gun Control,GunControl,Original,tend left,left,1,0,0.51
+Gun Control,GunControl,Original,tend left,tend left,1,1,0.49
+Gun Control,GunControl,Original,tend left,center,1,2,0.0
+Gun Control,GunControl,Original,tend left,tend right,1,3,0.0
+Gun Control,GunControl,Original,tend left,right,1,4,0.0
+Gun Control,GunControl,Original,center,left,2,0,0.01
+Gun Control,GunControl,Original,center,tend left,2,1,0.5
+Gun Control,GunControl,Original,center,center,2,2,0.04
+Gun Control,GunControl,Original,center,tend right,2,3,0.42
+Gun Control,GunControl,Original,center,right,2,4,0.03
+Gun Control,GunControl,Original,tend right,left,3,0,0.0
+Gun Control,GunControl,Original,tend right,tend left,3,1,0.0
+Gun Control,GunControl,Original,tend right,center,3,2,0.0
+Gun Control,GunControl,Original,tend right,tend right,3,3,0.27
+Gun Control,GunControl,Original,tend right,right,3,4,0.73
+Gun Control,GunControl,Original,right,left,4,0,0.0
+Gun Control,GunControl,Original,right,tend left,4,1,0.0
+Gun Control,GunControl,Original,right,center,4,2,0.0
+Gun Control,GunControl,Original,right,tend right,4,3,0.29
+Gun Control,GunControl,Original,right,right,4,4,0.71
+Gun Control,GunControl,Self-regulated,left,left,0,0,0.85
+Gun Control,GunControl,Self-regulated,left,tend left,0,1,0.15
+Gun Control,GunControl,Self-regulated,left,center,0,2,0.0
+Gun Control,GunControl,Self-regulated,left,tend right,0,3,0.0
+Gun Control,GunControl,Self-regulated,left,right,0,4,0.0
+Gun Control,GunControl,Self-regulated,tend left,left,1,0,0.53
+Gun Control,GunControl,Self-regulated,tend left,tend left,1,1,0.47
+Gun Control,GunControl,Self-regulated,tend left,center,1,2,0.0
+Gun Control,GunControl,Self-regulated,tend left,tend right,1,3,0.0
+Gun Control,GunControl,Self-regulated,tend left,right,1,4,0.0
+Gun Control,GunControl,Self-regulated,center,left,2,0,0.0
+Gun Control,GunControl,Self-regulated,center,tend left,2,1,0.44
+Gun Control,GunControl,Self-regulated,center,center,2,2,0.15
+Gun Control,GunControl,Self-regulated,center,tend right,2,3,0.39
+Gun Control,GunControl,Self-regulated,center,right,2,4,0.02
+Gun Control,GunControl,Self-regulated,tend right,left,3,0,0.0
+Gun Control,GunControl,Self-regulated,tend right,tend left,3,1,0.0
+Gun Control,GunControl,Self-regulated,tend right,center,3,2,0.0
+Gun Control,GunControl,Self-regulated,tend right,tend right,3,3,0.37
+Gun Control,GunControl,Self-regulated,tend right,right,3,4,0.63
+Gun Control,GunControl,Self-regulated,right,left,4,0,0.0
+Gun Control,GunControl,Self-regulated,right,tend left,4,1,0.0
+Gun Control,GunControl,Self-regulated,right,center,4,2,0.0
+Gun Control,GunControl,Self-regulated,right,tend right,4,3,0.22
+Gun Control,GunControl,Self-regulated,right,right,4,4,0.78
+Obamacare,Obamacare,Original,left,left,0,0,0.47
+Obamacare,Obamacare,Original,left,tend left,0,1,0.5
+Obamacare,Obamacare,Original,left,center,0,2,0.03
+Obamacare,Obamacare,Original,left,tend right,0,3,0.0
+Obamacare,Obamacare,Original,left,right,0,4,0.0
+Obamacare,Obamacare,Original,tend left,left,1,0,0.41
+Obamacare,Obamacare,Original,tend left,tend left,1,1,0.52
+Obamacare,Obamacare,Original,tend left,center,1,2,0.06
+Obamacare,Obamacare,Original,tend left,tend right,1,3,0.01
+Obamacare,Obamacare,Original,tend left,right,1,4,0.0
+Obamacare,Obamacare,Original,center,left,2,0,0.14
+Obamacare,Obamacare,Original,center,tend left,2,1,0.67
+Obamacare,Obamacare,Original,center,center,2,2,0.13
+Obamacare,Obamacare,Original,center,tend right,2,3,0.06
+Obamacare,Obamacare,Original,center,right,2,4,0.0
+Obamacare,Obamacare,Original,tend right,left,3,0,0.02
+Obamacare,Obamacare,Original,tend right,tend left,3,1,0.14
+Obamacare,Obamacare,Original,tend right,center,3,2,0.18
+Obamacare,Obamacare,Original,tend right,tend right,3,3,0.55
+Obamacare,Obamacare,Original,tend right,right,3,4,0.11
+Obamacare,Obamacare,Original,right,left,4,0,0.02
+Obamacare,Obamacare,Original,right,tend left,4,1,0.05
+Obamacare,Obamacare,Original,right,center,4,2,0.1
+Obamacare,Obamacare,Original,right,tend right,4,3,0.6
+Obamacare,Obamacare,Original,right,right,4,4,0.23
+Obamacare,Obamacare,Self-regulated,left,left,0,0,0.85
+Obamacare,Obamacare,Self-regulated,left,tend left,0,1,0.11
+Obamacare,Obamacare,Self-regulated,left,center,0,2,0.04
+Obamacare,Obamacare,Self-regulated,left,tend right,0,3,0.0
+Obamacare,Obamacare,Self-regulated,left,right,0,4,0.0
+Obamacare,Obamacare,Self-regulated,tend left,left,1,0,0.18
+Obamacare,Obamacare,Self-regulated,tend left,tend left,1,1,0.54
+Obamacare,Obamacare,Self-regulated,tend left,center,1,2,0.27
+Obamacare,Obamacare,Self-regulated,tend left,tend right,1,3,0.01
+Obamacare,Obamacare,Self-regulated,tend left,right,1,4,0.0
+Obamacare,Obamacare,Self-regulated,center,left,2,0,0.1
+Obamacare,Obamacare,Self-regulated,center,tend left,2,1,0.25
+Obamacare,Obamacare,Self-regulated,center,center,2,2,0.48
+Obamacare,Obamacare,Self-regulated,center,tend right,2,3,0.17
+Obamacare,Obamacare,Self-regulated,center,right,2,4,0.0
+Obamacare,Obamacare,Self-regulated,tend right,left,3,0,0.0
+Obamacare,Obamacare,Self-regulated,tend right,tend left,3,1,0.0
+Obamacare,Obamacare,Self-regulated,tend right,center,3,2,0.0
+Obamacare,Obamacare,Self-regulated,tend right,tend right,3,3,0.86
+Obamacare,Obamacare,Self-regulated,tend right,right,3,4,0.14
+Obamacare,Obamacare,Self-regulated,right,left,4,0,0.0
+Obamacare,Obamacare,Self-regulated,right,tend left,4,1,0.0
+Obamacare,Obamacare,Self-regulated,right,center,4,2,0.0
+Obamacare,Obamacare,Self-regulated,right,tend right,4,3,0.31
+Obamacare,Obamacare,Self-regulated,right,right,4,4,0.69
+Education Reform,EducationReform,Original,left,left,0,0,1.0
+Education Reform,EducationReform,Original,left,tend left,0,1,0.0
+Education Reform,EducationReform,Original,left,center,0,2,0.0
+Education Reform,EducationReform,Original,left,tend right,0,3,0.0
+Education Reform,EducationReform,Original,left,right,0,4,0.0
+Education Reform,EducationReform,Original,tend left,left,1,0,0.0
+Education Reform,EducationReform,Original,tend left,tend left,1,1,1.0
+Education Reform,EducationReform,Original,tend left,center,1,2,0.0
+Education Reform,EducationReform,Original,tend left,tend right,1,3,0.0
+Education Reform,EducationReform,Original,tend left,right,1,4,0.0
+Education Reform,EducationReform,Original,center,left,2,0,0.04
+Education Reform,EducationReform,Original,center,tend left,2,1,0.78
+Education Reform,EducationReform,Original,center,center,2,2,0.18
+Education Reform,EducationReform,Original,center,tend right,2,3,0.0
+Education Reform,EducationReform,Original,center,right,2,4,0.0
+Education Reform,EducationReform,Original,tend right,left,3,0,0.0
+Education Reform,EducationReform,Original,tend right,tend left,3,1,0.01
+Education Reform,EducationReform,Original,tend right,center,3,2,0.0
+Education Reform,EducationReform,Original,tend right,tend right,3,3,0.87
+Education Reform,EducationReform,Original,tend right,right,3,4,0.12
+Education Reform,EducationReform,Original,right,left,4,0,0.0
+Education Reform,EducationReform,Original,right,tend left,4,1,0.05
+Education Reform,EducationReform,Original,right,center,4,2,0.0
+Education Reform,EducationReform,Original,right,tend right,4,3,0.03
+Education Reform,EducationReform,Original,right,right,4,4,0.92
+Education Reform,EducationReform,Self-regulated,left,left,0,0,1.0
+Education Reform,EducationReform,Self-regulated,left,tend left,0,1,0.0
+Education Reform,EducationReform,Self-regulated,left,center,0,2,0.0
+Education Reform,EducationReform,Self-regulated,left,tend right,0,3,0.0
+Education Reform,EducationReform,Self-regulated,left,right,0,4,0.0
+Education Reform,EducationReform,Self-regulated,tend left,left,1,0,0.0
+Education Reform,EducationReform,Self-regulated,tend left,tend left,1,1,1.0
+Education Reform,EducationReform,Self-regulated,tend left,center,1,2,0.0
+Education Reform,EducationReform,Self-regulated,tend left,tend right,1,3,0.0
+Education Reform,EducationReform,Self-regulated,tend left,right,1,4,0.0
+Education Reform,EducationReform,Self-regulated,center,left,2,0,0.01
+Education Reform,EducationReform,Self-regulated,center,tend left,2,1,0.26
+Education Reform,EducationReform,Self-regulated,center,center,2,2,0.73
+Education Reform,EducationReform,Self-regulated,center,tend right,2,3,0.0
+Education Reform,EducationReform,Self-regulated,center,right,2,4,0.0
+Education Reform,EducationReform,Self-regulated,tend right,left,3,0,0.0
+Education Reform,EducationReform,Self-regulated,tend right,tend left,3,1,0.01
+Education Reform,EducationReform,Self-regulated,tend right,center,3,2,0.0
+Education Reform,EducationReform,Self-regulated,tend right,tend right,3,3,0.81
+Education Reform,EducationReform,Self-regulated,tend right,right,3,4,0.18
+Education Reform,EducationReform,Self-regulated,right,left,4,0,0.0
+Education Reform,EducationReform,Self-regulated,right,tend left,4,1,0.0
+Education Reform,EducationReform,Self-regulated,right,center,4,2,0.0
+Education Reform,EducationReform,Self-regulated,right,tend right,4,3,0.05
+Education Reform,EducationReform,Self-regulated,right,right,4,4,0.95

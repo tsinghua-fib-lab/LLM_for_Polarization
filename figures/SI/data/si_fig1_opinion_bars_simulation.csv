@@ -1,0 +1,10 @@
+topic,group,proportion,n_nodes
+Partisan Alignment,Left Leaning,0.518,1000
+Partisan Alignment,Neutral,0.328,1000
+Partisan Alignment,Right Leaning,0.154,1000
+Gun Control,Left Leaning,0.5720000000000001,1000
+Gun Control,Neutral,0.002,1000
+Gun Control,Right Leaning,0.42600000000000005,1000
+Abortion Ban,Left Leaning,0.463,1000
+Abortion Ban,Neutral,0.113,1000
+Abortion Ban,Right Leaning,0.424,1000

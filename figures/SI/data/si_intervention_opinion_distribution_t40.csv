@@ -1,0 +1,31 @@
+type,timestep,state,proportion,count,n_nodes
+Original,40,-2,0.123,123,1000
+Original,40,-1,0.031,31,1000
+Original,40,0,0.328,328,1000
+Original,40,1,0.021,21,1000
+Original,40,2,0.497,497,1000
+Random Interactions,40,-2,0.073,73,1000
+Random Interactions,40,-1,0.054,54,1000
+Random Interactions,40,0,0.351,351,1000
+Random Interactions,40,1,0.019,19,1000
+Random Interactions,40,2,0.503,503,1000
+Moderate Opposing Interactions,40,-2,0.101,101,1000
+Moderate Opposing Interactions,40,-1,0.056,56,1000
+Moderate Opposing Interactions,40,0,0.325,325,1000
+Moderate Opposing Interactions,40,1,0.032,32,1000
+Moderate Opposing Interactions,40,2,0.486,486,1000
+Neutral Elite Signaling,40,-2,0.034,34,1000
+Neutral Elite Signaling,40,-1,0.057,57,1000
+Neutral Elite Signaling,40,0,0.396,396,1000
+Neutral Elite Signaling,40,1,0.028,28,1000
+Neutral Elite Signaling,40,2,0.485,485,1000
+No Selective Exposure,40,-2,0.123,123,1000
+No Selective Exposure,40,-1,0.029,29,1000
+No Selective Exposure,40,0,0.338,338,1000
+No Selective Exposure,40,1,0.016,16,1000
+No Selective Exposure,40,2,0.494,494,1000
+No Confirmation Bias,40,-2,0.032,32,1000
+No Confirmation Bias,40,-1,0.084,84,1000
+No Confirmation Bias,40,0,0.372,372,1000
+No Confirmation Bias,40,1,0.066,66,1000
+No Confirmation Bias,40,2,0.446,446,1000

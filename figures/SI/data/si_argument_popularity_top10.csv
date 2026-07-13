@@ -1,0 +1,31 @@
+topic,rank,argument_text,count,relative_frequency
+Politics,1,social justice,178,0.05420219244823386
+Politics,2,equality,148,0.04506699147381242
+Politics,3,limited government,132,0.040194884287454324
+Politics,4,individual freedom,118,0.035931790499390985
+Politics,5,individual freedoms,103,0.03136419001218027
+Politics,6,economic growth,97,0.02953714981729598
+Politics,7,national security,90,0.027405602923264313
+Politics,8,inclusivity,81,0.02466504263093788
+Politics,9,environmental protection,75,0.022838002436053592
+Politics,10,inclusive society,73,0.022228989037758832
+Gun_Control,1,public safety,607,0.2932367149758454
+Gun_Control,2,individual rights,126,0.06086956521739131
+Gun_Control,3,reducing gun violence,104,0.050241545893719805
+Gun_Control,4,reduce gun violence,88,0.04251207729468599
+Gun_Control,5,responsible gun ownership,67,0.0323671497584541
+Gun_Control,6,individual freedoms,66,0.03188405797101449
+Gun_Control,7,prevent gun violence,50,0.024154589371980676
+Gun_Control,8,preventing gun violence,48,0.02318840579710145
+Gun_Control,9,prevent tragedies,37,0.017874396135265702
+Gun_Control,10,preventing tragedies,30,0.014492753623188406
+Abortion,1,ethical concerns,278,0.14818763326226012
+Abortion,2,reproductive autonomy,180,0.09594882729211088
+Abortion,3,reproductive rights,146,0.07782515991471216
+Abortion,4,women's rights,110,0.05863539445628998
+Abortion,5,access to safe abortion,91,0.048507462686567165
+Abortion,6,fetal life protection,89,0.04744136460554371
+Abortion,7,women's health,68,0.03624733475479744
+Abortion,8,right to choose,66,0.035181236673773986
+Abortion,9,bodily integrity,54,0.028784648187633263
+Abortion,10,autonomy,53,0.028251599147121536

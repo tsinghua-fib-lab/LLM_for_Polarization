@@ -1,0 +1,37 @@
+type,timestep,polarization
+Moderate Opposing Interactions,35,1.287
+Moderate Opposing Interactions,36,1.276
+Moderate Opposing Interactions,37,1.276
+Moderate Opposing Interactions,38,1.268
+Moderate Opposing Interactions,39,1.272
+Moderate Opposing Interactions,40,1.262
+Neutral Elite Signaling,35,1.307
+Neutral Elite Signaling,36,1.2
+Neutral Elite Signaling,37,1.165
+Neutral Elite Signaling,38,1.122
+Neutral Elite Signaling,39,1.157
+Neutral Elite Signaling,40,1.123
+No Confirmation Bias,35,1.198
+No Confirmation Bias,36,1.168
+No Confirmation Bias,37,1.122
+No Confirmation Bias,38,1.125
+No Confirmation Bias,39,1.125
+No Confirmation Bias,40,1.106
+No Selective Exposure,35,1.291
+No Selective Exposure,36,1.29
+No Selective Exposure,37,1.292
+No Selective Exposure,38,1.285
+No Selective Exposure,39,1.284
+No Selective Exposure,40,1.279
+Original,35,1.295
+Original,36,1.295
+Original,37,1.291
+Original,38,1.295
+Original,39,1.288
+Original,40,1.292
+Random Interactions,35,1.292
+Random Interactions,36,1.27
+Random Interactions,37,1.256
+Random Interactions,38,1.249
+Random Interactions,39,1.244
+Random Interactions,40,1.225

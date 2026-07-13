@@ -1,0 +1,31 @@
+type,delta_abs_opinion,proportion,count,n_nodes
+Original,-2,0.009,9,1000
+Original,-1,0.035,35,1000
+Original,0,0.914,914,1000
+Original,1,0.034,34,1000
+Original,2,0.008,8,1000
+Random Interactions,-2,0.035,35,1000
+Random Interactions,-1,0.056,56,1000
+Random Interactions,0,0.863,863,1000
+Random Interactions,1,0.036,36,1000
+Random Interactions,2,0.01,10,1000
+Moderate Opposing Interactions,-2,0.008,8,1000
+Moderate Opposing Interactions,-1,0.055,55,1000
+Moderate Opposing Interactions,0,0.905,905,1000
+Moderate Opposing Interactions,1,0.026,26,1000
+Moderate Opposing Interactions,2,0.006,6,1000
+Neutral Elite Signaling,-2,0.058,58,1000
+Neutral Elite Signaling,-1,0.079,79,1000
+Neutral Elite Signaling,0,0.845,845,1000
+Neutral Elite Signaling,1,0.013,13,1000
+Neutral Elite Signaling,2,0.005,5,1000
+No Selective Exposure,-2,0.014,14,1000
+No Selective Exposure,-1,0.027,27,1000
+No Selective Exposure,0,0.926,926,1000
+No Selective Exposure,1,0.027,27,1000
+No Selective Exposure,2,0.006,6,1000
+No Confirmation Bias,-2,0.047,47,1000
+No Confirmation Bias,-1,0.13,130,1000
+No Confirmation Bias,0,0.798,798,1000
+No Confirmation Bias,1,0.015,15,1000
+No Confirmation Bias,2,0.01,10,1000

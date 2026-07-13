@@ -1,0 +1,25 @@
+panel,condition,time,bias
+Exaggerated misperception,0%,16,1.55
+Exaggerated misperception,0%,17,1.56
+Exaggerated misperception,0%,18,1.56
+Exaggerated misperception,0%,19,1.56
+Exaggerated misperception,50%,16,1.64
+Exaggerated misperception,50%,17,1.64
+Exaggerated misperception,50%,18,1.66
+Exaggerated misperception,50%,19,1.65
+Objective illusion,0%,16,1.55
+Objective illusion,0%,17,1.56
+Objective illusion,0%,18,1.56
+Objective illusion,0%,19,1.56
+Objective illusion,50%,16,1.707070707070707
+Objective illusion,50%,17,1.7171717171717171
+Objective illusion,50%,18,1.7272727272727273
+Objective illusion,50%,19,1.7676767676767677
+Stereotyping,0%,16,1.55
+Stereotyping,0%,17,1.56
+Stereotyping,0%,18,1.56
+Stereotyping,0%,19,1.56
+Stereotyping,50%,16,1.65
+Stereotyping,50%,17,1.67
+Stereotyping,50%,18,1.7
+Stereotyping,50%,19,1.68

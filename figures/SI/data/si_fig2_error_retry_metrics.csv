@@ -1,0 +1,31 @@
+topic,topic_key,stage,metric,value
+Obamacare,Obamacare,initialize,error_frequency,0.3190101010101011
+Obamacare,Obamacare,initialize,retry_frequency,2.016010101010101
+Obamacare,Obamacare,persuade,error_frequency,0.39020089179650597
+Obamacare,Obamacare,persuade,retry_frequency,2.0272474450187437
+Obamacare,Obamacare,final_determine,error_frequency,0.6063401163401163
+Obamacare,Obamacare,final_determine,retry_frequency,4.721923076923077
+Partisan Alignment,Politics,initialize,error_frequency,0.3222324104285109
+Partisan Alignment,Politics,initialize,retry_frequency,0.8421918809933473
+Partisan Alignment,Politics,persuade,error_frequency,0.2766651841823655
+Partisan Alignment,Politics,persuade,retry_frequency,0.9013315289063467
+Partisan Alignment,Politics,final_determine,error_frequency,0.63757973499453
+Partisan Alignment,Politics,final_determine,retry_frequency,2.681073612526112
+Abortion Ban,AbortionBan,initialize,error_frequency,0.3292929292929293
+Abortion Ban,AbortionBan,initialize,retry_frequency,1.7505050505050506
+Abortion Ban,AbortionBan,persuade,error_frequency,0.49595624069924477
+Abortion Ban,AbortionBan,persuade,retry_frequency,2.5446362596889274
+Abortion Ban,AbortionBan,final_determine,error_frequency,0.671566298954368
+Abortion Ban,AbortionBan,final_determine,retry_frequency,4.502883834435643
+Gun Control,GunControl,initialize,error_frequency,0.29215463917525775
+Gun Control,GunControl,initialize,retry_frequency,1.343154639175258
+Gun Control,GunControl,persuade,error_frequency,0.3747734558111946
+Gun Control,GunControl,persuade,retry_frequency,1.4676443784325204
+Gun Control,GunControl,final_determine,error_frequency,0.7272699043858815
+Gun Control,GunControl,final_determine,retry_frequency,4.2854542150099455
+Education Reform,EducationReform,initialize,error_frequency,0.2981111111111111
+Education Reform,EducationReform,initialize,retry_frequency,0.8798383838383839
+Education Reform,EducationReform,persuade,error_frequency,0.1479186548891402
+Education Reform,EducationReform,persuade,retry_frequency,0.31695038943811615
+Education Reform,EducationReform,final_determine,error_frequency,0.6415787253775576
+Education Reform,EducationReform,final_determine,retry_frequency,3.6181864683046725
