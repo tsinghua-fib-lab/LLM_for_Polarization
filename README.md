@@ -2,7 +2,7 @@
 
 Code and data for **A synthetic testbed of networked large language model agents for studying spontaneous opinion polarization**, in principle accepted by *Nature Communications*.
 
-This repository contains the simulation code, source data, and curated figure data/code used for the main-text figures.
+This repository contains the simulation code, source data, and curated figure data/code used for the main-text and Supplementary Information figures.
 
 ## Repository Structure
 
@@ -11,7 +11,8 @@ This repository contains the simulation code, source data, and curated figure da
 - `simulate_debiased.py`: self-regulated/debiased simulation code.
 - `utils.py`: LLM prompting and simulation utilities.
 - `source_data/`: network initialization files and source interaction data.
-- `figures/figure1` to `figures/figure4`: main-text figure data and plotting notebooks.
+- `figures/figure1` to `figures/figure4`: main-text figure data, plotting notebooks, and generated panel PDFs.
+- `figures/SI`: Supplementary Information result tables, plotting notebook, and generated panel PDFs.
 
 ## Source Data
 
@@ -38,8 +39,11 @@ Each figure folder includes a plotting notebook, minimal CSV data, and generated
 - `figures/figure2/figure2_codes.ipynb`
 - `figures/figure3/figure3_codes.ipynb`
 - `figures/figure4/figure4_codes.ipynb`
+- `figures/SI/SI_codes.ipynb`
 
-The notebooks are designed to be run from their own folders, reading local files from `data/` and writing PDFs to `output/`.
+The main-text figure notebooks are designed to be run from their own folders, reading local files from `data/` and writing PDFs to `output/`. The SI notebook reads local files from `figures/SI/data/` and writes PDFs to `figures/SI/figures/`.
+
+The curated data files are aggregated result tables for the plotted panels. They are intended to cover the figure outputs, while the epoch-level source interaction data for the three main topics are kept under `source_data/`.
 
 ## Environment
 
@@ -96,6 +100,17 @@ jupyter notebook figure1_codes.ipynb
 ```
 
 The same pattern applies to `figure2`, `figure3`, and `figure4`.
+
+## Drawing Supplementary Figures
+
+Run:
+
+```bash
+cd figures/SI
+jupyter notebook SI_codes.ipynb
+```
+
+The SI folder includes grouped CSV files for SI panels derived from the original Figure 1, Figure 2, Figure 4, intervention, NC experiment, argument-extraction, and affection/perception notebooks. See `figures/SI/README.md` for the file groups.
 
 ## License
 
