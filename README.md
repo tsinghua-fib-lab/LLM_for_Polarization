@@ -1,6 +1,6 @@
 # LLM for Polarization
 
-Code and data for **A synthetic testbed of networked large language model agents for studying spontaneous opinion polarization**, in principle accepted by *Nature Communications*.
+Code and data for **Emergence of polarization in networks of large language model agents**, in principle accepted by *Nature Communications*.
 
 This repository contains the simulation code, source data, and curated figure data/code used for the main-text and Supplementary Information figures.
 
